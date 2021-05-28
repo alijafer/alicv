@@ -24,7 +24,7 @@
         "display4Font": "Barlow Semi Condensed",
         "display4Size": 1.0625,
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -54,7 +54,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/alij.svg",
-    "mbrsiteDomain": "hscos5tmva",
+    "mbrsiteDomain": "61yiwbsqjo",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
